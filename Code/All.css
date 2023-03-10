@@ -123,11 +123,6 @@ footer li {
     padding: 10px 0;
     font-size: 15px;
     cursor: pointer;
-    transition: 0.3s ease;
-}
-
-footer li:hover{
-    color:rgb(241,240,245);
 }
 
 
